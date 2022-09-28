@@ -27,3 +27,4 @@ wsl --unregister docker-desktop-data
 `
 wsl --import docker-desktop-data H:\Docker\desktop H:\Docker\dockerdesk.tar
 `
+> in windows url bar //wsl$ you can see the wsl netowrk folders
